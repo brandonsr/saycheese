@@ -1,3 +1,6 @@
+<a href="# SayCheese v1.0">English</a>
+<a href="# SayCheese v1.0 (Espanol)">Spanish</a>
+
 # SayCheese v1.0
 Take webcam shots from target just sending a malicious link
 
